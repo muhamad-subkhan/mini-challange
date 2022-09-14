@@ -1,0 +1,26 @@
+#root{
+    background: #000;
+    margin: none;
+}
+
+.bg-dark{
+    height: 17%;
+}
+.bg-dark:hover{
+    background-color: lightsteelblue !important;
+    cursor: pointer;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+.bg-body{
+    height: 100vh;
+}
+
+a{
+    text-decoration: none !important;
+}
